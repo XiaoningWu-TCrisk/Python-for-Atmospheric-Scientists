@@ -1,0 +1,33 @@
+Hourly measurement data supplied by UK-air on 06/12/2021
+All Data GMT hour ending
+Status: V=Verified P=Provisionaly Verified N=Not Verified S=Suspect
+,,"London Marylebone Road",,,,,,"London N. Kensington",,,,,,"London Westminster",,,
+Date,Time,"Ozone",Status,"Nitrogen dioxide",Status,"PM2.5 particulate matter (Hourly measured)",Status,"Ozone",Status,"Nitrogen dioxide",Status,"PM2.5 particulate matter (Hourly measured)",Status,"Nitrogen dioxide",Status,"PM2.5 particulate matter (Hourly measured)",Status
+2021-01-03,01:00:00,20.8218,V ugm-3,21.84512,V ugm-3,12.5,V ugm-3 (TEOM FDMS),28.93765,V ugm-3,19.00486,V ugm-3,12.925,V ugm-3 (Ref.eq),29.05559,V ugm-3,11,V ugm-3 (BAM)
+2021-01-03,02:00:00,34.85823,V ugm-3,10.43179,V ugm-3,7.7,V ugm-3 (TEOM FDMS),41.84318,V ugm-3,10.00292,V ugm-3,7.854,V ugm-3 (Ref.eq),17.70565,V ugm-3,17,V ugm-3 (BAM)
+2021-01-03,03:00:00,40.5626,V ugm-3,6.42241,V ugm-3,7.3,V ugm-3 (TEOM FDMS),46.99874,V ugm-3,7.55253,V ugm-3,6.203,V ugm-3 (Ref.eq),14.0174,V ugm-3,9,V ugm-3 (BAM)
+2021-01-03,04:00:00,39.86411,V ugm-3,8.62384,V ugm-3,5,V ugm-3 (TEOM FDMS),46.64949,V ugm-3,9.02557,V ugm-3,5.047,V ugm-3 (Ref.eq),16.00338,V ugm-3,6,V ugm-3 (BAM)
+2021-01-03,05:00:00,30.13507,V ugm-3,15.00319,V ugm-3,4.6,V ugm-3 (TEOM FDMS),37.61894,V ugm-3,11.92043,V ugm-3,5.873,V ugm-3 (Ref.eq),20.5996,V ugm-3,8,V ugm-3 (BAM)
+2021-01-03,06:00:00,26.94195,V ugm-3,10.97341,V ugm-3,9.6,V ugm-3 (TEOM FDMS),31.98109,V ugm-3,11.71424,V ugm-3,9.835,V ugm-3 (Ref.eq),20.99806,V ugm-3,14,V ugm-3 (BAM)
+2021-01-03,07:00:00,24.49722,V ugm-3,14.17212,V ugm-3,9.9,V ugm-3 (TEOM FDMS),31.38238,V ugm-3,14.3004,V ugm-3,9.599,V ugm-3 (Ref.eq),24.46035,V ugm-3,12,V ugm-3 (BAM)
+2021-01-03,08:00:00,20.30625,V ugm-3,17.44233,V ugm-3,9.1,V ugm-3 (TEOM FDMS),30.03529,V ugm-3,15.69468,V ugm-3,8.538,V ugm-3 (Ref.eq),27.8654,V ugm-3,10,V ugm-3 (BAM)
+2021-01-03,09:00:00,23.05034,V ugm-3,14.73024,V ugm-3,9.1,V ugm-3 (TEOM FDMS),29.33679,V ugm-3,16.78683,V ugm-3,8.656,V ugm-3 (Ref.eq),22.36223,V ugm-3,9,V ugm-3 (BAM)
+2021-01-03,10:00:00,21.85292,V ugm-3,16.47134,V ugm-3,7.6,V ugm-3 (TEOM FDMS),29.48647,V ugm-3,16.2287,V ugm-3,6.415,V ugm-3 (Ref.eq),23.27381,V ugm-3,5,V ugm-3 (BAM)
+2021-01-03,11:00:00,22.45163,V ugm-3,15.29332,V ugm-3,6.9,V ugm-3 (TEOM FDMS),30.5841,V ugm-3,14.30391,V ugm-3,5.684,V ugm-3 (Ref.eq),23.10526,V ugm-3,7,V ugm-3 (BAM)
+2021-01-03,12:00:00,22.90066,V ugm-3,15.98729,V ugm-3,9,V ugm-3 (TEOM FDMS),31.68174,V ugm-3,14.84713,V ugm-3,5.165,V ugm-3 (Ref.eq),23.56248,V ugm-3,8,V ugm-3 (BAM)
+2021-01-03,13:00:00,24.54711,V ugm-3,17.30322,V ugm-3,6.4,V ugm-3 (TEOM FDMS),35.32389,V ugm-3,13.37892,V ugm-3,4.929,V ugm-3 (Ref.eq),25.66464,V ugm-3,8,V ugm-3 (BAM)
+2021-01-03,14:00:00,27.74023,V ugm-3,13.59673,V ugm-3,6.8,V ugm-3 (TEOM FDMS),38.51701,V ugm-3,11.52595,V ugm-3,4.906,V ugm-3 (Ref.eq),21.68662,V ugm-3,10,V ugm-3 (BAM)
+2021-01-03,15:00:00,25.99399,V ugm-3,16.09947,V ugm-3,6.7,V ugm-3 (TEOM FDMS),34.5755,V ugm-3,15.1155,V ugm-3,4.575,V ugm-3 (Ref.eq),21.85609,V ugm-3,7,V ugm-3 (BAM)
+2021-01-03,16:00:00,17.91141,V ugm-3,25.80418,V ugm-3,2.7,V ugm-3 (TEOM FDMS),29.2869,V ugm-3,20.16194,V ugm-3,3.915,V ugm-3 (Ref.eq),23.66874,V ugm-3,5,V ugm-3 (BAM)
+2021-01-03,17:00:00,17.3127,V ugm-3,24.86386,V ugm-3,6.7,V ugm-3 (TEOM FDMS),27.24131,V ugm-3,20.17904,V ugm-3,4.741,V ugm-3 (Ref.eq),26.39397,V ugm-3,7,V ugm-3 (BAM)
+2021-01-03,18:00:00,26.5927,V ugm-3,19.72693,V ugm-3,6.7,V ugm-3 (TEOM FDMS),32.52991,V ugm-3,19.36964,V ugm-3,6.297,V ugm-3 (Ref.eq),22.87224,V ugm-3,8,V ugm-3 (BAM)
+2021-01-03,19:00:00,20.75528,V ugm-3,22.87681,V ugm-3,5.2,V ugm-3 (TEOM FDMS),30.28475,V ugm-3,19.97637,V ugm-3,7.5,V ugm-3 (Ref.eq),27.07294,V ugm-3,12,V ugm-3 (BAM)
+2021-01-03,20:00:00,20.80517,V ugm-3,23.4399,V ugm-3,8.8,V ugm-3 (TEOM FDMS),29.2869,V ugm-3,22.15812,V ugm-3,9.151,V ugm-3 (Ref.eq),25.88018,V ugm-3,12,V ugm-3 (BAM)
+2021-01-03,21:00:00,19.15872,V ugm-3,24.88175,V ugm-3,10.2,V ugm-3 (TEOM FDMS),29.18711,V ugm-3,20.89171,V ugm-3,9.953,V ugm-3 (Ref.eq),27.75326,V ugm-3,12,V ugm-3 (BAM)
+2021-01-03,22:00:00,23.89851,V ugm-3,17.48164,V ugm-3,10.1,V ugm-3 (TEOM FDMS),34.17636,V ugm-3,14.8074,V ugm-3,9.269,V ugm-3 (Ref.eq),25.93667,V ugm-3,14,V ugm-3 (BAM)
+2021-01-03,23:00:00,26.24346,V ugm-3,15.33527,V ugm-3,6.2,V ugm-3 (TEOM FDMS),35.72303,V ugm-3,13.03144,V ugm-3,8.137,V ugm-3 (Ref.eq),21.0005,V ugm-3,13,V ugm-3 (BAM)
+2021-01-03,24:00:00,27.64045,V ugm-3,12.65977,V ugm-3,8.7,V ugm-3 (TEOM FDMS),36.5712,V ugm-3,11.15391,V ugm-3,7.288,V ugm-3 (Ref.eq),18.10394,V ugm-3,8,V ugm-3 (BAM)
+
+
+
+End
